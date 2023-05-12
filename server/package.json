@@ -11,8 +11,9 @@
     "license": "ISC",
     "dependencies": {
         "express": "^4.17.1",
-        "node": "^20.1.0",
-        "node.js": "^0.0.1-security"
+        "node": "v18.7.0"
+        
+        
     },
     "devDependencies": {
         "nodemon": "^2.0.4"

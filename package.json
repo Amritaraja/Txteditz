@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "node.js": "^0.0.1-security"
+    "node": "v18.7.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
